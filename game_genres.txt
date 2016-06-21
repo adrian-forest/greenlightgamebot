@@ -1,0 +1,17 @@
+adventure game
+FPS
+RPG
+tactical shooter
+top-down shooter
+platformer
+action game
+hidden object game
+RTS
+2D fighter
+JRPG
+text adventure
+open-world game
+dating sim
+visual novel
+roguelike
+rhythym game
