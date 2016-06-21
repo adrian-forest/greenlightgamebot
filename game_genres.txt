@@ -15,3 +15,4 @@ dating sim
 visual novel
 roguelike
 rhythym game
+rogue-lite
